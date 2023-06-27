@@ -13,6 +13,7 @@ View the demo for this app [here.](https://youtu.be/BOKc90Mj1Ao)
 ### Tools Used:
 - **Android Studio** - The tool used to develop the app
 - **Java** - The programming language used to code the logic of the app
+- **Base Adapter** - Class used to control the color of each cell on the grid
 
 ### Collaborators:
 - [@mdola19](https://github.com/mdola19) - Coded the logic for the game screen
